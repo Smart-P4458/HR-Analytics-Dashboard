@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 This project presents a comprehensive **HR Analytics Dashboard** built using **Power BI**, designed to empower HR professionals and business stakeholders with actionable insights for workforce planning, talent retention, and performance optimization.
-# 📊 HR Analytics Dashboard – By Sani Pam George
+# 📊 HR Analytics Dashboard – By Pam Sani George
 
 ## 📁 Project Summary
 This project presents a comprehensive **HR Analytics Dashboard** built using **Power BI**, designed to empower HR professionals and business stakeholders with actionable insights for workforce planning, talent retention, and performance optimization.
@@ -39,7 +39,7 @@ With integrated SQL logic and clean, interactive visuals, this dashboard demonst
 - ✅ **KPI Cards**: Attrition Rate, Retention Rate, Average Salary, Avg Satisfaction
 - ✅ **Charts**:
   - Attrition by Department and Gender
-  - Salary vs Performance Scatter Plot
+  - Salary vs Performance 
   - Headcount by Department and Role
 - ✅ **Slicers**: Department, Gender, Age Group, Job Role
 - ✅ **Interactivity**: Drill-through pages and dynamic filters
