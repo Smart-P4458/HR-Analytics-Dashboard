@@ -32,7 +32,7 @@ With integrated SQL logic and clean, interactive visuals, this dashboard demonst
 
 | Name        | Description                           |
 |-------------|---------------------------------------|
-| **Pam Sanin** | Hwolshe Jos, Plateau State, Nigeria |
+| **Pam Sani George** | Hwolshe Jos, Plateau State, Nigeria |
 ---
 
 ## 📌 Dashboard Features
