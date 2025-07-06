@@ -27,8 +27,12 @@ With integrated SQL logic and clean, interactive visuals, this dashboard demonst
 | **SQL**        | Data extraction & transformation   |
 | **MS Excel**   | Data cleaning and export           |
 | **GitHub**     | Version control & portfolio        |
-|-------------|---------------------------------------|
 
+---
+
+| Name        | Description                           |
+|-------------|---------------------------------------|
+| **Pam Sanin** | Hwolshe Jos, Plateau State, Nigeria |
 ---
 
 ## 📌 Dashboard Features
